@@ -1,0 +1,14 @@
+{
+  "name": "search",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "dependencies": {
+    "country-json": "^1.1.2",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "search",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ./bitwiseOperators.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "country-json": "^1.1.2",
+    "fast-xml-parser": "^4.0.8",
+    "heic-convert": "^1.2.4",
+    "mobileprovision": "^0.0.10",
+    "node-fetch": "^3.2.3",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
