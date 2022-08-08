@@ -1,0 +1,2492 @@
+[
+  {
+    "Country": "Afghanistan",
+    "ISO 3166-1 alpha2": "AF",
+    "ISO 3166-1 alpha3": "AFG",
+    "ISO 3166-1 numeric": 4,
+    "IOC": "AFG",
+    "Fips 10": "AF",
+    "License Plate": "AFG",
+    "Domain": ".af"
+  },
+  {
+    "Country": "Åland Islands",
+    "ISO 3166-1 alpha2": "AX",
+    "ISO 3166-1 alpha3": "ALA",
+    "ISO 3166-1 numeric": 248,
+    "IOC": "",
+    "Fips 10": "",
+    "License Plate": "AX",
+    "Domain": ".ax"
+  },
+  {
+    "Country": "Albania",
+    "ISO 3166-1 alpha2": "AL",
+    "ISO 3166-1 alpha3": "ALB",
+    "ISO 3166-1 numeric": 8,
+    "IOC": "ALB",
+    "Fips 10": "AL",
+    "License Plate": "AL",
+    "Domain": ".al"
+  },
+  {
+    "Country": "Algeria",
+    "ISO 3166-1 alpha2": "DZ",
+    "ISO 3166-1 alpha3": "DZA",
+    "ISO 3166-1 numeric": 12,
+    "IOC": "ALG",
+    "Fips 10": "AG",
+    "License Plate": "DZ",
+    "Domain": ".dz"
+  },
+  {
+    "Country": "American Samoa",
+    "ISO 3166-1 alpha2": "AS",
+    "ISO 3166-1 alpha3": "ASM",
+    "ISO 3166-1 numeric": 16,
+    "IOC": "ASA",
+    "Fips 10": "AQ",
+    "License Plate": "USA",
+    "Domain": ".as"
+  },
+  {
+    "Country": "Andorra",
+    "ISO 3166-1 alpha2": "AD",
+    "ISO 3166-1 alpha3": "AND",
+    "ISO 3166-1 numeric": 20,
+    "IOC": "AND",
+    "Fips 10": "AN",
+    "License Plate": "AND",
+    "Domain": ".ad"
+  },
+  {
+    "Country": "Angola",
+    "ISO 3166-1 alpha2": "AO",
+    "ISO 3166-1 alpha3": "AGO",
+    "ISO 3166-1 numeric": 24,
+    "IOC": "ANG",
+    "Fips 10": "AO",
+    "License Plate": "ANG",
+    "Domain": ".ao"
+  },
+  {
+    "Country": "Anguilla",
+    "ISO 3166-1 alpha2": "AI",
+    "ISO 3166-1 alpha3": "AIA",
+    "ISO 3166-1 numeric": 660,
+    "IOC": "",
+    "Fips 10": "AV",
+    "License Plate": "AXA",
+    "Domain": ".ai"
+  },
+  {
+    "Country": "Antarctica",
+    "ISO 3166-1 alpha2": "AQ",
+    "ISO 3166-1 alpha3": "ATA",
+    "ISO 3166-1 numeric": 10,
+    "IOC": "",
+    "Fips 10": "AY",
+    "License Plate": "",
+    "Domain": ".aq"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "ISO 3166-1 alpha2": "AG",
+    "ISO 3166-1 alpha3": "ATG",
+    "ISO 3166-1 numeric": 28,
+    "IOC": "ANT",
+    "Fips 10": "AC",
+    "License Plate": "AG",
+    "Domain": ".ag"
+  },
+  {
+    "Country": "Argentina",
+    "ISO 3166-1 alpha2": "AR",
+    "ISO 3166-1 alpha3": "ARG",
+    "ISO 3166-1 numeric": 32,
+    "IOC": "ARG",
+    "Fips 10": "AR",
+    "License Plate": "RA",
+    "Domain": ".ar"
+  },
+  {
+    "Country": "Armenia",
+    "ISO 3166-1 alpha2": "AM",
+    "ISO 3166-1 alpha3": "ARM",
+    "ISO 3166-1 numeric": 51,
+    "IOC": "ARM",
+    "Fips 10": "AM",
+    "License Plate": "AM",
+    "Domain": ".am"
+  },
+  {
+    "Country": "Aruba",
+    "ISO 3166-1 alpha2": "AW",
+    "ISO 3166-1 alpha3": "ABW",
+    "ISO 3166-1 numeric": 533,
+    "IOC": "ARU",
+    "Fips 10": "AA",
+    "License Plate": "ARU",
+    "Domain": ".aw"
+  },
+  {
+    "Country": "Australia",
+    "ISO 3166-1 alpha2": "AU",
+    "ISO 3166-1 alpha3": "AUS",
+    "ISO 3166-1 numeric": 36,
+    "IOC": "AUS",
+    "Fips 10": "AS",
+    "License Plate": "AUS",
+    "Domain": ".au"
+  },
+  {
+    "Country": "Austria",
+    "ISO 3166-1 alpha2": "AT",
+    "ISO 3166-1 alpha3": "AUT",
+    "ISO 3166-1 numeric": 40,
+    "IOC": "AUT",
+    "Fips 10": "AU",
+    "License Plate": "A",
+    "Domain": ".at"
+  },
+  {
+    "Country": "Azerbaijan",
+    "ISO 3166-1 alpha2": "AZ",
+    "ISO 3166-1 alpha3": "AZE",
+    "ISO 3166-1 numeric": 31,
+    "IOC": "AZE",
+    "Fips 10": "AJ",
+    "License Plate": "AZ",
+    "Domain": ".az"
+  },
+  {
+    "Country": "Bahamas",
+    "ISO 3166-1 alpha2": "BS",
+    "ISO 3166-1 alpha3": "BHS",
+    "ISO 3166-1 numeric": 44,
+    "IOC": "BAH",
+    "Fips 10": "BF",
+    "License Plate": "BS",
+    "Domain": ".bs"
+  },
+  {
+    "Country": "Bahrain",
+    "ISO 3166-1 alpha2": "BH",
+    "ISO 3166-1 alpha3": "BHR",
+    "ISO 3166-1 numeric": 48,
+    "IOC": "BRN",
+    "Fips 10": "BA",
+    "License Plate": "BRN",
+    "Domain": ".bh"
+  },
+  {
+    "Country": "Bangladesh",
+    "ISO 3166-1 alpha2": "BD",
+    "ISO 3166-1 alpha3": "BGD",
+    "ISO 3166-1 numeric": 50,
+    "IOC": "BAN",
+    "Fips 10": "BG",
+    "License Plate": "BD",
+    "Domain": ".bd"
+  },
+  {
+    "Country": "Barbados",
+    "ISO 3166-1 alpha2": "BB",
+    "ISO 3166-1 alpha3": "BRB",
+    "ISO 3166-1 numeric": 52,
+    "IOC": "BAR",
+    "Fips 10": "BB",
+    "License Plate": "BDS",
+    "Domain": ".bb"
+  },
+  {
+    "Country": "Belarus",
+    "ISO 3166-1 alpha2": "BY",
+    "ISO 3166-1 alpha3": "BLR",
+    "ISO 3166-1 numeric": 112,
+    "IOC": "BLR",
+    "Fips 10": "BO",
+    "License Plate": "BY",
+    "Domain": ".by"
+  },
+  {
+    "Country": "Belgium",
+    "ISO 3166-1 alpha2": "BE",
+    "ISO 3166-1 alpha3": "BEL",
+    "ISO 3166-1 numeric": 56,
+    "IOC": "BEL",
+    "Fips 10": "BE",
+    "License Plate": "B",
+    "Domain": ".be"
+  },
+  {
+    "Country": "Belize",
+    "ISO 3166-1 alpha2": "BZ",
+    "ISO 3166-1 alpha3": "BLZ",
+    "ISO 3166-1 numeric": 84,
+    "IOC": "BIZ",
+    "Fips 10": "BH",
+    "License Plate": "BZ",
+    "Domain": ".bz"
+  },
+  {
+    "Country": "Benin",
+    "ISO 3166-1 alpha2": "BJ",
+    "ISO 3166-1 alpha3": "BEN",
+    "ISO 3166-1 numeric": 204,
+    "IOC": "BEN",
+    "Fips 10": "BN",
+    "License Plate": "BJ",
+    "Domain": ".bj"
+  },
+  {
+    "Country": "Bermuda",
+    "ISO 3166-1 alpha2": "BM",
+    "ISO 3166-1 alpha3": "BMU",
+    "ISO 3166-1 numeric": 60,
+    "IOC": "BER",
+    "Fips 10": "BD",
+    "License Plate": "",
+    "Domain": ".bm"
+  },
+  {
+    "Country": "Bhutan",
+    "ISO 3166-1 alpha2": "BT",
+    "ISO 3166-1 alpha3": "BTN",
+    "ISO 3166-1 numeric": 64,
+    "IOC": "BHU",
+    "Fips 10": "BT",
+    "License Plate": "BHT",
+    "Domain": ".bt"
+  },
+  {
+    "Country": "Bolivia",
+    "ISO 3166-1 alpha2": "BO",
+    "ISO 3166-1 alpha3": "BOL",
+    "ISO 3166-1 numeric": 68,
+    "IOC": "BOL",
+    "Fips 10": "BL",
+    "License Plate": "BOL",
+    "Domain": ".bo"
+  },
+  {
+    "Country": "Bonaire, Saint Eustatius and Saba",
+    "ISO 3166-1 alpha2": "BQ",
+    "ISO 3166-1 alpha3": "BES",
+    "ISO 3166-1 numeric": 535,
+    "IOC": "",
+    "Fips 10": "",
+    "License Plate": "NL",
+    "Domain": ".bq"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "ISO 3166-1 alpha2": "BA",
+    "ISO 3166-1 alpha3": "BIH",
+    "ISO 3166-1 numeric": 70,
+    "IOC": "BIH",
+    "Fips 10": "BK",
+    "License Plate": "BIH",
+    "Domain": ".ba"
+  },
+  {
+    "Country": "Botswana",
+    "ISO 3166-1 alpha2": "BW",
+    "ISO 3166-1 alpha3": "BWA",
+    "ISO 3166-1 numeric": 72,
+    "IOC": "BOT",
+    "Fips 10": "BC",
+    "License Plate": "RB",
+    "Domain": ".bw"
+  },
+  {
+    "Country": "Bouvet Island",
+    "ISO 3166-1 alpha2": "BV",
+    "ISO 3166-1 alpha3": "BVT",
+    "ISO 3166-1 numeric": 74,
+    "IOC": "",
+    "Fips 10": "BV",
+    "License Plate": "",
+    "Domain": ".bv"
+  },
+  {
+    "Country": "Brazil",
+    "ISO 3166-1 alpha2": "BR",
+    "ISO 3166-1 alpha3": "BRA",
+    "ISO 3166-1 numeric": 76,
+    "IOC": "BRA",
+    "Fips 10": "BR",
+    "License Plate": "BR",
+    "Domain": ".br"
+  },
+  {
+    "Country": "British Indian Ocean Territory",
+    "ISO 3166-1 alpha2": "IO",
+    "ISO 3166-1 alpha3": "IOT",
+    "ISO 3166-1 numeric": 86,
+    "IOC": "",
+    "Fips 10": "IO",
+    "License Plate": "",
+    "Domain": ".io"
+  },
+  {
+    "Country": "British Virgin Islands",
+    "ISO 3166-1 alpha2": "VG",
+    "ISO 3166-1 alpha3": "VGB",
+    "ISO 3166-1 numeric": 92,
+    "IOC": "IVB",
+    "Fips 10": "VI",
+    "License Plate": "VG",
+    "Domain": ".vg"
+  },
+  {
+    "Country": "Brunei",
+    "ISO 3166-1 alpha2": "BN",
+    "ISO 3166-1 alpha3": "BRN",
+    "ISO 3166-1 numeric": 96,
+    "IOC": "BRU",
+    "Fips 10": "BX",
+    "License Plate": "BRU",
+    "Domain": ".bn"
+  },
+  {
+    "Country": "Bulgaria",
+    "ISO 3166-1 alpha2": "BG",
+    "ISO 3166-1 alpha3": "BGR",
+    "ISO 3166-1 numeric": 100,
+    "IOC": "BUL",
+    "Fips 10": "BU",
+    "License Plate": "BG",
+    "Domain": ".bg"
+  },
+  {
+    "Country": "Burkina Faso",
+    "ISO 3166-1 alpha2": "BF",
+    "ISO 3166-1 alpha3": "BFA",
+    "ISO 3166-1 numeric": 854,
+    "IOC": "BUR",
+    "Fips 10": "UV",
+    "License Plate": "BF",
+    "Domain": ".bf"
+  },
+  {
+    "Country": "Burma",
+    "ISO 3166-1 alpha2": "MM",
+    "ISO 3166-1 alpha3": "MMR",
+    "ISO 3166-1 numeric": 104,
+    "IOC": "MYA",
+    "Fips 10": "BM",
+    "License Plate": "MYA",
+    "Domain": ".mm"
+  },
+  {
+    "Country": "Burundi",
+    "ISO 3166-1 alpha2": "BI",
+    "ISO 3166-1 alpha3": "BDI",
+    "ISO 3166-1 numeric": 108,
+    "IOC": "BDI",
+    "Fips 10": "BY",
+    "License Plate": "RU",
+    "Domain": ".bi"
+  },
+  {
+    "Country": "Cambodia",
+    "ISO 3166-1 alpha2": "KH",
+    "ISO 3166-1 alpha3": "KHM",
+    "ISO 3166-1 numeric": 116,
+    "IOC": "CAM",
+    "Fips 10": "CB",
+    "License Plate": "K",
+    "Domain": ".kh"
+  },
+  {
+    "Country": "Cameroon",
+    "ISO 3166-1 alpha2": "CM",
+    "ISO 3166-1 alpha3": "CMR",
+    "ISO 3166-1 numeric": 120,
+    "IOC": "CMR",
+    "Fips 10": "CM",
+    "License Plate": "CAM",
+    "Domain": ".cm"
+  },
+  {
+    "Country": "Canada",
+    "ISO 3166-1 alpha2": "CA",
+    "ISO 3166-1 alpha3": "CAN",
+    "ISO 3166-1 numeric": 124,
+    "IOC": "CAN",
+    "Fips 10": "CA",
+    "License Plate": "CDN",
+    "Domain": ".ca"
+  },
+  {
+    "Country": "Cape Verde",
+    "ISO 3166-1 alpha2": "CV",
+    "ISO 3166-1 alpha3": "CPV",
+    "ISO 3166-1 numeric": 132,
+    "IOC": "CPV",
+    "Fips 10": "CV",
+    "License Plate": "CV",
+    "Domain": ".cv"
+  },
+  {
+    "Country": "Cayman Islands",
+    "ISO 3166-1 alpha2": "KY",
+    "ISO 3166-1 alpha3": "CYM",
+    "ISO 3166-1 numeric": 136,
+    "IOC": "CAY",
+    "Fips 10": "CJ",
+    "License Plate": "",
+    "Domain": ".ky"
+  },
+  {
+    "Country": "Central African Republic",
+    "ISO 3166-1 alpha2": "CF",
+    "ISO 3166-1 alpha3": "CAF",
+    "ISO 3166-1 numeric": 140,
+    "IOC": "CAF",
+    "Fips 10": "CT",
+    "License Plate": "RCA",
+    "Domain": ".cf"
+  },
+  {
+    "Country": "Chad",
+    "ISO 3166-1 alpha2": "TD",
+    "ISO 3166-1 alpha3": "TCD",
+    "ISO 3166-1 numeric": 148,
+    "IOC": "CHA",
+    "Fips 10": "CD",
+    "License Plate": "TD",
+    "Domain": ".td"
+  },
+  {
+    "Country": "Chile",
+    "ISO 3166-1 alpha2": "CL",
+    "ISO 3166-1 alpha3": "CHL",
+    "ISO 3166-1 numeric": 152,
+    "IOC": "CHI",
+    "Fips 10": "CI",
+    "License Plate": "RCH",
+    "Domain": ".cl"
+  },
+  {
+    "Country": "China",
+    "ISO 3166-1 alpha2": "CN",
+    "ISO 3166-1 alpha3": "CHN",
+    "ISO 3166-1 numeric": 156,
+    "IOC": "CHN",
+    "Fips 10": "CH",
+    "License Plate": "CHN",
+    "Domain": ".cn"
+  },
+  {
+    "Country": "Christmas Island",
+    "ISO 3166-1 alpha2": "CX",
+    "ISO 3166-1 alpha3": "CXR",
+    "ISO 3166-1 numeric": 162,
+    "IOC": "",
+    "Fips 10": "KT",
+    "License Plate": "",
+    "Domain": ".cx"
+  },
+  {
+    "Country": "Cocos (Keeling) Islands",
+    "ISO 3166-1 alpha2": "CC",
+    "ISO 3166-1 alpha3": "CCK",
+    "ISO 3166-1 numeric": 166,
+    "IOC": "",
+    "Fips 10": "CK",
+    "License Plate": "",
+    "Domain": ".cc"
+  },
+  {
+    "Country": "Colombia",
+    "ISO 3166-1 alpha2": "CO",
+    "ISO 3166-1 alpha3": "COL",
+    "ISO 3166-1 numeric": 170,
+    "IOC": "COL",
+    "Fips 10": "CO",
+    "License Plate": "CO",
+    "Domain": ".co"
+  },
+  {
+    "Country": "Comoros",
+    "ISO 3166-1 alpha2": "KM",
+    "ISO 3166-1 alpha3": "COM",
+    "ISO 3166-1 numeric": 174,
+    "IOC": "COM",
+    "Fips 10": "CN",
+    "License Plate": "COM",
+    "Domain": ".km"
+  },
+  {
+    "Country": "Cook Islands",
+    "ISO 3166-1 alpha2": "CK",
+    "ISO 3166-1 alpha3": "COK",
+    "ISO 3166-1 numeric": 184,
+    "IOC": "COK",
+    "Fips 10": "CW",
+    "License Plate": "",
+    "Domain": ".ck"
+  },
+  {
+    "Country": "Costa Rica",
+    "ISO 3166-1 alpha2": "CR",
+    "ISO 3166-1 alpha3": "CRI",
+    "ISO 3166-1 numeric": 188,
+    "IOC": "CRC",
+    "Fips 10": "CS",
+    "License Plate": "CR",
+    "Domain": ".cr"
+  },
+  {
+    "Country": "Croatia",
+    "ISO 3166-1 alpha2": "HR",
+    "ISO 3166-1 alpha3": "HRV",
+    "ISO 3166-1 numeric": 191,
+    "IOC": "CRO",
+    "Fips 10": "HR",
+    "License Plate": "HR",
+    "Domain": ".hr"
+  },
+  {
+    "Country": "Cuba",
+    "ISO 3166-1 alpha2": "CU",
+    "ISO 3166-1 alpha3": "CUB",
+    "ISO 3166-1 numeric": 192,
+    "IOC": "CUB",
+    "Fips 10": "CU",
+    "License Plate": "C",
+    "Domain": ".cu"
+  },
+  {
+    "Country": "Curacao",
+    "ISO 3166-1 alpha2": "CW",
+    "ISO 3166-1 alpha3": "CUW",
+    "ISO 3166-1 numeric": 531,
+    "IOC": "",
+    "Fips 10": "UC",
+    "License Plate": "",
+    "Domain": ".cw"
+  },
+  {
+    "Country": "Cyprus",
+    "ISO 3166-1 alpha2": "CY",
+    "ISO 3166-1 alpha3": "CYP",
+    "ISO 3166-1 numeric": 196,
+    "IOC": "CYP",
+    "Fips 10": "CY",
+    "License Plate": "CY",
+    "Domain": ".cy"
+  },
+  {
+    "Country": "Czechia",
+    "ISO 3166-1 alpha2": "CZ",
+    "ISO 3166-1 alpha3": "CZE",
+    "ISO 3166-1 numeric": 203,
+    "IOC": "CZE",
+    "Fips 10": "EZ",
+    "License Plate": "CZ",
+    "Domain": ".cz"
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "ISO 3166-1 alpha2": "CD",
+    "ISO 3166-1 alpha3": "COD",
+    "ISO 3166-1 numeric": 180,
+    "IOC": "COD",
+    "Fips 10": "CG",
+    "License Plate": "CGO",
+    "Domain": ".cd"
+  },
+  {
+    "Country": "Denmark",
+    "ISO 3166-1 alpha2": "DK",
+    "ISO 3166-1 alpha3": "DNK",
+    "ISO 3166-1 numeric": 208,
+    "IOC": "DEN",
+    "Fips 10": "DA",
+    "License Plate": "DK",
+    "Domain": ".dk"
+  },
+  {
+    "Country": "Djibouti",
+    "ISO 3166-1 alpha2": "DJ",
+    "ISO 3166-1 alpha3": "DJI",
+    "ISO 3166-1 numeric": 262,
+    "IOC": "DJI",
+    "Fips 10": "DJ",
+    "License Plate": "DJI",
+    "Domain": ".dj"
+  },
+  {
+    "Country": "Dominica",
+    "ISO 3166-1 alpha2": "DM",
+    "ISO 3166-1 alpha3": "DMA",
+    "ISO 3166-1 numeric": 212,
+    "IOC": "DMA",
+    "Fips 10": "DO",
+    "License Plate": "WD",
+    "Domain": ".dm"
+  },
+  {
+    "Country": "Dominican Republic",
+    "ISO 3166-1 alpha2": "DO",
+    "ISO 3166-1 alpha3": "DOM",
+    "ISO 3166-1 numeric": 214,
+    "IOC": "DOM",
+    "Fips 10": "DR",
+    "License Plate": "DOM",
+    "Domain": ".do"
+  },
+  {
+    "Country": "East Timor",
+    "ISO 3166-1 alpha2": "TL",
+    "ISO 3166-1 alpha3": "TLS",
+    "ISO 3166-1 numeric": 626,
+    "IOC": "TLS",
+    "Fips 10": "TT",
+    "License Plate": "TL",
+    "Domain": ".tl"
+  },
+  {
+    "Country": "Ecuador",
+    "ISO 3166-1 alpha2": "EC",
+    "ISO 3166-1 alpha3": "ECU",
+    "ISO 3166-1 numeric": 218,
+    "IOC": "ECU",
+    "Fips 10": "EC",
+    "License Plate": "EC",
+    "Domain": ".ec"
+  },
+  {
+    "Country": "Egypt",
+    "ISO 3166-1 alpha2": "EG",
+    "ISO 3166-1 alpha3": "EGY",
+    "ISO 3166-1 numeric": 818,
+    "IOC": "EGY",
+    "Fips 10": "EG",
+    "License Plate": "ET",
+    "Domain": ".eg"
+  },
+  {
+    "Country": "El Salvador",
+    "ISO 3166-1 alpha2": "SV",
+    "ISO 3166-1 alpha3": "SLV",
+    "ISO 3166-1 numeric": 222,
+    "IOC": "ESA",
+    "Fips 10": "ES",
+    "License Plate": "ES",
+    "Domain": ".sv"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "ISO 3166-1 alpha2": "GQ",
+    "ISO 3166-1 alpha3": "GNQ",
+    "ISO 3166-1 numeric": 226,
+    "IOC": "GEQ",
+    "Fips 10": "EK",
+    "License Plate": "GQ",
+    "Domain": ".gq"
+  },
+  {
+    "Country": "Eritrea",
+    "ISO 3166-1 alpha2": "ER",
+    "ISO 3166-1 alpha3": "ERI",
+    "ISO 3166-1 numeric": 232,
+    "IOC": "ERI",
+    "Fips 10": "ER",
+    "License Plate": "ER",
+    "Domain": ".er"
+  },
+  {
+    "Country": "Estonia",
+    "ISO 3166-1 alpha2": "EE",
+    "ISO 3166-1 alpha3": "EST",
+    "ISO 3166-1 numeric": 233,
+    "IOC": "EST",
+    "Fips 10": "EN",
+    "License Plate": "EST",
+    "Domain": ".ee"
+  },
+  {
+    "Country": "Eswatini",
+    "ISO 3166-1 alpha2": "SZ",
+    "ISO 3166-1 alpha3": "SWZ",
+    "ISO 3166-1 numeric": 748,
+    "IOC": "SWZ",
+    "Fips 10": "WZ",
+    "License Plate": "SD",
+    "Domain": ".sz"
+  },
+  {
+    "Country": "Ethiopia",
+    "ISO 3166-1 alpha2": "ET",
+    "ISO 3166-1 alpha3": "ETH",
+    "ISO 3166-1 numeric": 231,
+    "IOC": "ETH",
+    "Fips 10": "ET",
+    "License Plate": "ETH",
+    "Domain": ".et"
+  },
+  {
+    "Country": "Falkland Islands",
+    "ISO 3166-1 alpha2": "FK",
+    "ISO 3166-1 alpha3": "FLK",
+    "ISO 3166-1 numeric": 238,
+    "IOC": "",
+    "Fips 10": "FK",
+    "License Plate": "",
+    "Domain": ".fk"
+  },
+  {
+    "Country": "Faroe Islands",
+    "ISO 3166-1 alpha2": "FO",
+    "ISO 3166-1 alpha3": "FRO",
+    "ISO 3166-1 numeric": 234,
+    "IOC": "",
+    "Fips 10": "FO",
+    "License Plate": "FO",
+    "Domain": ".fo"
+  },
+  {
+    "Country": "Federated States of Micronesia",
+    "ISO 3166-1 alpha2": "FM",
+    "ISO 3166-1 alpha3": "FSM",
+    "ISO 3166-1 numeric": 583,
+    "IOC": "FSM",
+    "Fips 10": "FM",
+    "License Plate": "FSM",
+    "Domain": ".fm"
+  },
+  {
+    "Country": "Fiji",
+    "ISO 3166-1 alpha2": "FJ",
+    "ISO 3166-1 alpha3": "FJI",
+    "ISO 3166-1 numeric": 242,
+    "IOC": "FIJ",
+    "Fips 10": "FJ",
+    "License Plate": "FJI",
+    "Domain": ".fj"
+  },
+  {
+    "Country": "Finland",
+    "ISO 3166-1 alpha2": "FI",
+    "ISO 3166-1 alpha3": "FIN",
+    "ISO 3166-1 numeric": 246,
+    "IOC": "FIN",
+    "Fips 10": "FI",
+    "License Plate": "FIN",
+    "Domain": ".fi"
+  },
+  {
+    "Country": "France",
+    "ISO 3166-1 alpha2": "FR",
+    "ISO 3166-1 alpha3": "FRA",
+    "ISO 3166-1 numeric": 250,
+    "IOC": "FRA",
+    "Fips 10": "FR",
+    "License Plate": "F",
+    "Domain": ".fr"
+  },
+  {
+    "Country": "French Guiana",
+    "ISO 3166-1 alpha2": "GF",
+    "ISO 3166-1 alpha3": "GUF",
+    "ISO 3166-1 numeric": 254,
+    "IOC": "",
+    "Fips 10": "FG",
+    "License Plate": "",
+    "Domain": ".gf"
+  },
+  {
+    "Country": "French Polynesia",
+    "ISO 3166-1 alpha2": "PF",
+    "ISO 3166-1 alpha3": "PYF",
+    "ISO 3166-1 numeric": 258,
+    "IOC": "",
+    "Fips 10": "FP",
+    "License Plate": "",
+    "Domain": ".pf"
+  },
+  {
+    "Country": "French Southern and Antarctic Lands",
+    "ISO 3166-1 alpha2": "TF",
+    "ISO 3166-1 alpha3": "ATF",
+    "ISO 3166-1 numeric": 260,
+    "IOC": "",
+    "Fips 10": "FS",
+    "License Plate": "",
+    "Domain": ".tf"
+  },
+  {
+    "Country": "Gabon",
+    "ISO 3166-1 alpha2": "GA",
+    "ISO 3166-1 alpha3": "GAB",
+    "ISO 3166-1 numeric": 266,
+    "IOC": "GAB",
+    "Fips 10": "GB",
+    "License Plate": "G",
+    "Domain": ".ga"
+  },
+  {
+    "Country": "Gambia",
+    "ISO 3166-1 alpha2": "GM",
+    "ISO 3166-1 alpha3": "GMB",
+    "ISO 3166-1 numeric": 270,
+    "IOC": "GAM",
+    "Fips 10": "GA",
+    "License Plate": "WAG",
+    "Domain": ".gm"
+  },
+  {
+    "Country": "Georgia",
+    "ISO 3166-1 alpha2": "GE",
+    "ISO 3166-1 alpha3": "GEO",
+    "ISO 3166-1 numeric": 268,
+    "IOC": "GEO",
+    "Fips 10": "GG",
+    "License Plate": "GE",
+    "Domain": ".ge"
+  },
+  {
+    "Country": "Germany",
+    "ISO 3166-1 alpha2": "DE",
+    "ISO 3166-1 alpha3": "DEU",
+    "ISO 3166-1 numeric": 276,
+    "IOC": "GER",
+    "Fips 10": "GM",
+    "License Plate": "D",
+    "Domain": ".de"
+  },
+  {
+    "Country": "Ghana",
+    "ISO 3166-1 alpha2": "GH",
+    "ISO 3166-1 alpha3": "GHA",
+    "ISO 3166-1 numeric": 288,
+    "IOC": "GHA",
+    "Fips 10": "GH",
+    "License Plate": "GH",
+    "Domain": ".gh"
+  },
+  {
+    "Country": "Gibraltar",
+    "ISO 3166-1 alpha2": "GI",
+    "ISO 3166-1 alpha3": "GIB",
+    "ISO 3166-1 numeric": 292,
+    "IOC": "",
+    "Fips 10": "GI",
+    "License Plate": "GBZ",
+    "Domain": ".gi"
+  },
+  {
+    "Country": "Greece",
+    "ISO 3166-1 alpha2": "GR",
+    "ISO 3166-1 alpha3": "GRC",
+    "ISO 3166-1 numeric": 300,
+    "IOC": "GRE",
+    "Fips 10": "GR",
+    "License Plate": "GR",
+    "Domain": ".gr"
+  },
+  {
+    "Country": "Greenland",
+    "ISO 3166-1 alpha2": "GL",
+    "ISO 3166-1 alpha3": "GRL",
+    "ISO 3166-1 numeric": 304,
+    "IOC": "",
+    "Fips 10": "GL",
+    "License Plate": "KN",
+    "Domain": ".gl"
+  },
+  {
+    "Country": "Grenada",
+    "ISO 3166-1 alpha2": "GD",
+    "ISO 3166-1 alpha3": "GRD",
+    "ISO 3166-1 numeric": 308,
+    "IOC": "GRN",
+    "Fips 10": "GJ",
+    "License Plate": "WG",
+    "Domain": ".gd"
+  },
+  {
+    "Country": "Guadeloupe",
+    "ISO 3166-1 alpha2": "GP",
+    "ISO 3166-1 alpha3": "GLP",
+    "ISO 3166-1 numeric": 312,
+    "IOC": "",
+    "Fips 10": "GP",
+    "License Plate": "",
+    "Domain": ".gp"
+  },
+  {
+    "Country": "Guam",
+    "ISO 3166-1 alpha2": "GU",
+    "ISO 3166-1 alpha3": "GUM",
+    "ISO 3166-1 numeric": 316,
+    "IOC": "GUM",
+    "Fips 10": "GQ",
+    "License Plate": "",
+    "Domain": ".gu"
+  },
+  {
+    "Country": "Guatemala",
+    "ISO 3166-1 alpha2": "GT",
+    "ISO 3166-1 alpha3": "GTM",
+    "ISO 3166-1 numeric": 320,
+    "IOC": "GUA",
+    "Fips 10": "GT",
+    "License Plate": "GCA",
+    "Domain": ".gt"
+  },
+  {
+    "Country": "Guernsey",
+    "ISO 3166-1 alpha2": "GG",
+    "ISO 3166-1 alpha3": "GGY",
+    "ISO 3166-1 numeric": 831,
+    "IOC": "",
+    "Fips 10": "GK",
+    "License Plate": "GBG",
+    "Domain": ".gg"
+  },
+  {
+    "Country": "Guinea",
+    "ISO 3166-1 alpha2": "GN",
+    "ISO 3166-1 alpha3": "GIN",
+    "ISO 3166-1 numeric": 324,
+    "IOC": "GUI",
+    "Fips 10": "GV",
+    "License Plate": "RG",
+    "Domain": ".gn"
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "ISO 3166-1 alpha2": "GW",
+    "ISO 3166-1 alpha3": "GNB",
+    "ISO 3166-1 numeric": 624,
+    "IOC": "GBS",
+    "Fips 10": "PU",
+    "License Plate": "GUB",
+    "Domain": ".gw"
+  },
+  {
+    "Country": "Guyana",
+    "ISO 3166-1 alpha2": "GY",
+    "ISO 3166-1 alpha3": "GUY",
+    "ISO 3166-1 numeric": 328,
+    "IOC": "GUY",
+    "Fips 10": "GY",
+    "License Plate": "GUY",
+    "Domain": ".gy"
+  },
+  {
+    "Country": "Haiti",
+    "ISO 3166-1 alpha2": "HT",
+    "ISO 3166-1 alpha3": "HTI",
+    "ISO 3166-1 numeric": 332,
+    "IOC": "HAI",
+    "Fips 10": "HA",
+    "License Plate": "RH",
+    "Domain": ".ht"
+  },
+  {
+    "Country": "Heard Island and McDonald Islands",
+    "ISO 3166-1 alpha2": "HM",
+    "ISO 3166-1 alpha3": "HMD",
+    "ISO 3166-1 numeric": 334,
+    "IOC": "",
+    "Fips 10": "HM",
+    "License Plate": "",
+    "Domain": ".hm"
+  },
+  {
+    "Country": "Honduras",
+    "ISO 3166-1 alpha2": "HN",
+    "ISO 3166-1 alpha3": "HND",
+    "ISO 3166-1 numeric": 340,
+    "IOC": "HON",
+    "Fips 10": "HO",
+    "License Plate": "HN",
+    "Domain": ".hn"
+  },
+  {
+    "Country": "Hong Kong",
+    "ISO 3166-1 alpha2": "HK",
+    "ISO 3166-1 alpha3": "HKG",
+    "ISO 3166-1 numeric": 344,
+    "IOC": "HKG",
+    "Fips 10": "HK",
+    "License Plate": "HK",
+    "Domain": ".hk"
+  },
+  {
+    "Country": "Hungary",
+    "ISO 3166-1 alpha2": "HU",
+    "ISO 3166-1 alpha3": "HUN",
+    "ISO 3166-1 numeric": 348,
+    "IOC": "HUN",
+    "Fips 10": "HU",
+    "License Plate": "H",
+    "Domain": ".hu"
+  },
+  {
+    "Country": "Iceland",
+    "ISO 3166-1 alpha2": "IS",
+    "ISO 3166-1 alpha3": "ISL",
+    "ISO 3166-1 numeric": 352,
+    "IOC": "ISL",
+    "Fips 10": "IC",
+    "License Plate": "IS",
+    "Domain": ".is"
+  },
+  {
+    "Country": "India",
+    "ISO 3166-1 alpha2": "IN",
+    "ISO 3166-1 alpha3": "IND",
+    "ISO 3166-1 numeric": 356,
+    "IOC": "IND",
+    "Fips 10": "IN",
+    "License Plate": "IND",
+    "Domain": ".in"
+  },
+  {
+    "Country": "Indonesia",
+    "ISO 3166-1 alpha2": "ID",
+    "ISO 3166-1 alpha3": "IDN",
+    "ISO 3166-1 numeric": 360,
+    "IOC": "INA",
+    "Fips 10": "ID",
+    "License Plate": "RI",
+    "Domain": ".id"
+  },
+  {
+    "Country": "Iran",
+    "ISO 3166-1 alpha2": "IR",
+    "ISO 3166-1 alpha3": "IRN",
+    "ISO 3166-1 numeric": 364,
+    "IOC": "IRI",
+    "Fips 10": "IR",
+    "License Plate": "IR",
+    "Domain": ".ir"
+  },
+  {
+    "Country": "Iraq",
+    "ISO 3166-1 alpha2": "IQ",
+    "ISO 3166-1 alpha3": "IRQ",
+    "ISO 3166-1 numeric": 368,
+    "IOC": "IRQ",
+    "Fips 10": "IZ",
+    "License Plate": "IRQ",
+    "Domain": ".iq"
+  },
+  {
+    "Country": "Ireland",
+    "ISO 3166-1 alpha2": "IE",
+    "ISO 3166-1 alpha3": "IRL",
+    "ISO 3166-1 numeric": 372,
+    "IOC": "IRL",
+    "Fips 10": "EI",
+    "License Plate": "IRL",
+    "Domain": ".ie"
+  },
+  {
+    "Country": "Isle of Man",
+    "ISO 3166-1 alpha2": "IM",
+    "ISO 3166-1 alpha3": "IMN",
+    "ISO 3166-1 numeric": 833,
+    "IOC": "",
+    "Fips 10": "",
+    "License Plate": "",
+    "Domain": ".im"
+  },
+  {
+    "Country": "Israel",
+    "ISO 3166-1 alpha2": "IL",
+    "ISO 3166-1 alpha3": "ISR",
+    "ISO 3166-1 numeric": 376,
+    "IOC": "ISR",
+    "Fips 10": "IS",
+    "License Plate": "IL",
+    "Domain": ".il"
+  },
+  {
+    "Country": "Italy",
+    "ISO 3166-1 alpha2": "IT",
+    "ISO 3166-1 alpha3": "ITA",
+    "ISO 3166-1 numeric": 380,
+    "IOC": "ITA",
+    "Fips 10": "IT",
+    "License Plate": "I",
+    "Domain": ".it"
+  },
+  {
+    "Country": "Ivory Coast",
+    "ISO 3166-1 alpha2": "CI",
+    "ISO 3166-1 alpha3": "CIV",
+    "ISO 3166-1 numeric": 384,
+    "IOC": "CIV",
+    "Fips 10": "IV",
+    "License Plate": "CI",
+    "Domain": ".ci"
+  },
+  {
+    "Country": "Jamaica",
+    "ISO 3166-1 alpha2": "JM",
+    "ISO 3166-1 alpha3": "JAM",
+    "ISO 3166-1 numeric": 388,
+    "IOC": "JAM",
+    "Fips 10": "JM",
+    "License Plate": "JA",
+    "Domain": ".jm"
+  },
+  {
+    "Country": "Japan",
+    "ISO 3166-1 alpha2": "JP",
+    "ISO 3166-1 alpha3": "JPN",
+    "ISO 3166-1 numeric": 392,
+    "IOC": "JPN",
+    "Fips 10": "JA",
+    "License Plate": "J",
+    "Domain": ".jp"
+  },
+  {
+    "Country": "Jersey",
+    "ISO 3166-1 alpha2": "JE",
+    "ISO 3166-1 alpha3": "JEY",
+    "ISO 3166-1 numeric": 832,
+    "IOC": "",
+    "Fips 10": "JE",
+    "License Plate": "GBJ",
+    "Domain": ".je"
+  },
+  {
+    "Country": "Jordan",
+    "ISO 3166-1 alpha2": "JO",
+    "ISO 3166-1 alpha3": "JOR",
+    "ISO 3166-1 numeric": 400,
+    "IOC": "JOR",
+    "Fips 10": "JO",
+    "License Plate": "JOR",
+    "Domain": ".jo"
+  },
+  {
+    "Country": "Kazakhstan",
+    "ISO 3166-1 alpha2": "KZ",
+    "ISO 3166-1 alpha3": "KAZ",
+    "ISO 3166-1 numeric": 398,
+    "IOC": "KAZ",
+    "Fips 10": "KZ",
+    "License Plate": "KZ",
+    "Domain": ".kz"
+  },
+  {
+    "Country": "Kenya",
+    "ISO 3166-1 alpha2": "KE",
+    "ISO 3166-1 alpha3": "KEN",
+    "ISO 3166-1 numeric": 404,
+    "IOC": "KEN",
+    "Fips 10": "KE",
+    "License Plate": "EAK",
+    "Domain": ".ke"
+  },
+  {
+    "Country": "Kiribati",
+    "ISO 3166-1 alpha2": "KI",
+    "ISO 3166-1 alpha3": "KIR",
+    "ISO 3166-1 numeric": 296,
+    "IOC": "KIR",
+    "Fips 10": "KR",
+    "License Plate": "KIR",
+    "Domain": ".ki"
+  },
+  {
+    "Country": "Kosovo",
+    "ISO 3166-1 alpha2": "XK",
+    "ISO 3166-1 alpha3": "XKX",
+    "ISO 3166-1 numeric": "",
+    "IOC": "KOS",
+    "Fips 10": "KV",
+    "License Plate": "RKS",
+    "Domain": ".ko"
+  },
+  {
+    "Country": "Kuwait",
+    "ISO 3166-1 alpha2": "KW",
+    "ISO 3166-1 alpha3": "KWT",
+    "ISO 3166-1 numeric": 414,
+    "IOC": "KUW",
+    "Fips 10": "KU",
+    "License Plate": "KWT",
+    "Domain": ".kw"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "ISO 3166-1 alpha2": "KG",
+    "ISO 3166-1 alpha3": "KGZ",
+    "ISO 3166-1 numeric": 417,
+    "IOC": "KGZ",
+    "Fips 10": "KG",
+    "License Plate": "KS",
+    "Domain": ".kg"
+  },
+  {
+    "Country": "Laos",
+    "ISO 3166-1 alpha2": "LA",
+    "ISO 3166-1 alpha3": "LAO",
+    "ISO 3166-1 numeric": 418,
+    "IOC": "LAO",
+    "Fips 10": "LA",
+    "License Plate": "LAO",
+    "Domain": ".la"
+  },
+  {
+    "Country": "Latvia",
+    "ISO 3166-1 alpha2": "LV",
+    "ISO 3166-1 alpha3": "LVA",
+    "ISO 3166-1 numeric": 428,
+    "IOC": "LAT",
+    "Fips 10": "LG",
+    "License Plate": "LV",
+    "Domain": ".lv"
+  },
+  {
+    "Country": "Lebanon",
+    "ISO 3166-1 alpha2": "LB",
+    "ISO 3166-1 alpha3": "LBN",
+    "ISO 3166-1 numeric": 422,
+    "IOC": "LBN",
+    "Fips 10": "LE",
+    "License Plate": "RL",
+    "Domain": ".lb"
+  },
+  {
+    "Country": "Lesotho",
+    "ISO 3166-1 alpha2": "LS",
+    "ISO 3166-1 alpha3": "LSO",
+    "ISO 3166-1 numeric": 426,
+    "IOC": "LES",
+    "Fips 10": "LT",
+    "License Plate": "LS",
+    "Domain": ".ls"
+  },
+  {
+    "Country": "Liberia",
+    "ISO 3166-1 alpha2": "LR",
+    "ISO 3166-1 alpha3": "LBR",
+    "ISO 3166-1 numeric": 430,
+    "IOC": "LBR",
+    "Fips 10": "LI",
+    "License Plate": "LB",
+    "Domain": ".lr"
+  },
+  {
+    "Country": "Libya",
+    "ISO 3166-1 alpha2": "LY",
+    "ISO 3166-1 alpha3": "LBY",
+    "ISO 3166-1 numeric": 434,
+    "IOC": "LBA",
+    "Fips 10": "LY",
+    "License Plate": "LAR",
+    "Domain": ".ly"
+  },
+  {
+    "Country": "Liechtenstein",
+    "ISO 3166-1 alpha2": "LI",
+    "ISO 3166-1 alpha3": "LIE",
+    "ISO 3166-1 numeric": 438,
+    "IOC": "LIE",
+    "Fips 10": "LS",
+    "License Plate": "FL",
+    "Domain": ".li"
+  },
+  {
+    "Country": "Lithuania",
+    "ISO 3166-1 alpha2": "LT",
+    "ISO 3166-1 alpha3": "LTU",
+    "ISO 3166-1 numeric": 440,
+    "IOC": "LTU",
+    "Fips 10": "LH",
+    "License Plate": "LT",
+    "Domain": ".lt"
+  },
+  {
+    "Country": "Luxembourg",
+    "ISO 3166-1 alpha2": "LU",
+    "ISO 3166-1 alpha3": "LUX",
+    "ISO 3166-1 numeric": 442,
+    "IOC": "LUX",
+    "Fips 10": "LU",
+    "License Plate": "L",
+    "Domain": ".lu"
+  },
+  {
+    "Country": "Macao",
+    "ISO 3166-1 alpha2": "MO",
+    "ISO 3166-1 alpha3": "MAC",
+    "ISO 3166-1 numeric": 446,
+    "IOC": "",
+    "Fips 10": "MC",
+    "License Plate": "",
+    "Domain": ".mo"
+  },
+  {
+    "Country": "Madagascar",
+    "ISO 3166-1 alpha2": "MG",
+    "ISO 3166-1 alpha3": "MDG",
+    "ISO 3166-1 numeric": 450,
+    "IOC": "MAD",
+    "Fips 10": "MA",
+    "License Plate": "RM",
+    "Domain": ".mg"
+  },
+  {
+    "Country": "Malawi",
+    "ISO 3166-1 alpha2": "MW",
+    "ISO 3166-1 alpha3": "MWI",
+    "ISO 3166-1 numeric": 454,
+    "IOC": "MAW",
+    "Fips 10": "MI",
+    "License Plate": "MW",
+    "Domain": ".mw"
+  },
+  {
+    "Country": "Malaysia",
+    "ISO 3166-1 alpha2": "MY",
+    "ISO 3166-1 alpha3": "MYS",
+    "ISO 3166-1 numeric": 458,
+    "IOC": "MAS",
+    "Fips 10": "MY",
+    "License Plate": "MAL",
+    "Domain": ".my"
+  },
+  {
+    "Country": "Maldives",
+    "ISO 3166-1 alpha2": "MV",
+    "ISO 3166-1 alpha3": "MDV",
+    "ISO 3166-1 numeric": 462,
+    "IOC": "MDV",
+    "Fips 10": "MV",
+    "License Plate": "MV",
+    "Domain": ".mv"
+  },
+  {
+    "Country": "Mali",
+    "ISO 3166-1 alpha2": "ML",
+    "ISO 3166-1 alpha3": "MLI",
+    "ISO 3166-1 numeric": 466,
+    "IOC": "MLI",
+    "Fips 10": "ML",
+    "License Plate": "RMM",
+    "Domain": ".ml"
+  },
+  {
+    "Country": "Malta",
+    "ISO 3166-1 alpha2": "MT",
+    "ISO 3166-1 alpha3": "MLT",
+    "ISO 3166-1 numeric": 470,
+    "IOC": "MLT",
+    "Fips 10": "MT",
+    "License Plate": "M",
+    "Domain": ".mt"
+  },
+  {
+    "Country": "Marshall Islands",
+    "ISO 3166-1 alpha2": "MH",
+    "ISO 3166-1 alpha3": "MHL",
+    "ISO 3166-1 numeric": 584,
+    "IOC": "MHL",
+    "Fips 10": "RM",
+    "License Plate": "MH",
+    "Domain": ".mh"
+  },
+  {
+    "Country": "Martinique",
+    "ISO 3166-1 alpha2": "MQ",
+    "ISO 3166-1 alpha3": "MTQ",
+    "ISO 3166-1 numeric": 474,
+    "IOC": "",
+    "Fips 10": "MB",
+    "License Plate": "",
+    "Domain": ".mq"
+  },
+  {
+    "Country": "Mauritania",
+    "ISO 3166-1 alpha2": "MR",
+    "ISO 3166-1 alpha3": "MRT",
+    "ISO 3166-1 numeric": 478,
+    "IOC": "MTN",
+    "Fips 10": "MR",
+    "License Plate": "RIM",
+    "Domain": ".mr"
+  },
+  {
+    "Country": "Mauritius",
+    "ISO 3166-1 alpha2": "MU",
+    "ISO 3166-1 alpha3": "MUS",
+    "ISO 3166-1 numeric": 480,
+    "IOC": "MRI",
+    "Fips 10": "MP",
+    "License Plate": "MS",
+    "Domain": ".mu"
+  },
+  {
+    "Country": "Mayotte",
+    "ISO 3166-1 alpha2": "YT",
+    "ISO 3166-1 alpha3": "MYT",
+    "ISO 3166-1 numeric": 175,
+    "IOC": "",
+    "Fips 10": "MF",
+    "License Plate": "",
+    "Domain": ".yt"
+  },
+  {
+    "Country": "Mexico",
+    "ISO 3166-1 alpha2": "MX",
+    "ISO 3166-1 alpha3": "MEX",
+    "ISO 3166-1 numeric": 484,
+    "IOC": "MEX",
+    "Fips 10": "MX",
+    "License Plate": "MEX",
+    "Domain": ".mx"
+  },
+  {
+    "Country": "Moldova",
+    "ISO 3166-1 alpha2": "MD",
+    "ISO 3166-1 alpha3": "MDA",
+    "ISO 3166-1 numeric": 498,
+    "IOC": "MDA",
+    "Fips 10": "MD",
+    "License Plate": "MD",
+    "Domain": ".md"
+  },
+  {
+    "Country": "Mongolia",
+    "ISO 3166-1 alpha2": "MN",
+    "ISO 3166-1 alpha3": "MNG",
+    "ISO 3166-1 numeric": 496,
+    "IOC": "MGL",
+    "Fips 10": "MG",
+    "License Plate": "MGL",
+    "Domain": ".mn"
+  },
+  {
+    "Country": "Montenegro",
+    "ISO 3166-1 alpha2": "ME",
+    "ISO 3166-1 alpha3": "MNE",
+    "ISO 3166-1 numeric": 499,
+    "IOC": "MNE",
+    "Fips 10": "MJ",
+    "License Plate": "MNE",
+    "Domain": ".me"
+  },
+  {
+    "Country": "Montserrat",
+    "ISO 3166-1 alpha2": "MS",
+    "ISO 3166-1 alpha3": "MSR",
+    "ISO 3166-1 numeric": 500,
+    "IOC": "",
+    "Fips 10": "MH",
+    "License Plate": "",
+    "Domain": ".ms"
+  },
+  {
+    "Country": "Morocco",
+    "ISO 3166-1 alpha2": "MA",
+    "ISO 3166-1 alpha3": "MAR",
+    "ISO 3166-1 numeric": 504,
+    "IOC": "MAR",
+    "Fips 10": "MO",
+    "License Plate": "MA",
+    "Domain": ".ma"
+  },
+  {
+    "Country": "Mozambique",
+    "ISO 3166-1 alpha2": "MZ",
+    "ISO 3166-1 alpha3": "MOZ",
+    "ISO 3166-1 numeric": 508,
+    "IOC": "MOZ",
+    "Fips 10": "MZ",
+    "License Plate": "MOC",
+    "Domain": ".mz"
+  },
+  {
+    "Country": "Namibia",
+    "ISO 3166-1 alpha2": "NA",
+    "ISO 3166-1 alpha3": "NAM",
+    "ISO 3166-1 numeric": 516,
+    "IOC": "NAM",
+    "Fips 10": "WA",
+    "License Plate": "NAM",
+    "Domain": ".na"
+  },
+  {
+    "Country": "Nauru",
+    "ISO 3166-1 alpha2": "NR",
+    "ISO 3166-1 alpha3": "NRU",
+    "ISO 3166-1 numeric": 520,
+    "IOC": "NRU",
+    "Fips 10": "NR",
+    "License Plate": "NAU",
+    "Domain": ".nr"
+  },
+  {
+    "Country": "Nepal",
+    "ISO 3166-1 alpha2": "NP",
+    "ISO 3166-1 alpha3": "NPL",
+    "ISO 3166-1 numeric": 524,
+    "IOC": "NEP",
+    "Fips 10": "NP",
+    "License Plate": "NEP",
+    "Domain": ".np"
+  },
+  {
+    "Country": "Netherlands",
+    "ISO 3166-1 alpha2": "NL",
+    "ISO 3166-1 alpha3": "NLD",
+    "ISO 3166-1 numeric": 528,
+    "IOC": "NED",
+    "Fips 10": "NL",
+    "License Plate": "NL",
+    "Domain": ".nl"
+  },
+  {
+    "Country": "New Caledonia",
+    "ISO 3166-1 alpha2": "NC",
+    "ISO 3166-1 alpha3": "NCL",
+    "ISO 3166-1 numeric": 540,
+    "IOC": "",
+    "Fips 10": "NC",
+    "License Plate": "NCL",
+    "Domain": ".nc"
+  },
+  {
+    "Country": "New Zealand",
+    "ISO 3166-1 alpha2": "NZ",
+    "ISO 3166-1 alpha3": "NZL",
+    "ISO 3166-1 numeric": 554,
+    "IOC": "NZL",
+    "Fips 10": "NZ",
+    "License Plate": "NZ",
+    "Domain": ".nz"
+  },
+  {
+    "Country": "Nicaragua",
+    "ISO 3166-1 alpha2": "NI",
+    "ISO 3166-1 alpha3": "NIC",
+    "ISO 3166-1 numeric": 558,
+    "IOC": "NCA",
+    "Fips 10": "NU",
+    "License Plate": "NIC",
+    "Domain": ".ni"
+  },
+  {
+    "Country": "Niger",
+    "ISO 3166-1 alpha2": "NE",
+    "ISO 3166-1 alpha3": "NER",
+    "ISO 3166-1 numeric": 562,
+    "IOC": "NIG",
+    "Fips 10": "NG",
+    "License Plate": "RN",
+    "Domain": ".ne"
+  },
+  {
+    "Country": "Nigeria",
+    "ISO 3166-1 alpha2": "NG",
+    "ISO 3166-1 alpha3": "NGA",
+    "ISO 3166-1 numeric": 566,
+    "IOC": "NGR",
+    "Fips 10": "NI",
+    "License Plate": "NGR",
+    "Domain": ".ng"
+  },
+  {
+    "Country": "Niue",
+    "ISO 3166-1 alpha2": "NU",
+    "ISO 3166-1 alpha3": "NIU",
+    "ISO 3166-1 numeric": 570,
+    "IOC": "",
+    "Fips 10": "NE",
+    "License Plate": "",
+    "Domain": ".nu"
+  },
+  {
+    "Country": "Norfolk Island",
+    "ISO 3166-1 alpha2": "NF",
+    "ISO 3166-1 alpha3": "NFK",
+    "ISO 3166-1 numeric": 574,
+    "IOC": "",
+    "Fips 10": "NF",
+    "License Plate": "",
+    "Domain": ".nf"
+  },
+  {
+    "Country": "North Korea",
+    "ISO 3166-1 alpha2": "KP",
+    "ISO 3166-1 alpha3": "PRK",
+    "ISO 3166-1 numeric": 408,
+    "IOC": "PRK",
+    "Fips 10": "KN",
+    "License Plate": "KP",
+    "Domain": ".kp"
+  },
+  {
+    "Country": "North Macedonia",
+    "ISO 3166-1 alpha2": "MK",
+    "ISO 3166-1 alpha3": "MKD",
+    "ISO 3166-1 numeric": 807,
+    "IOC": "MKD",
+    "Fips 10": "MK",
+    "License Plate": "MK",
+    "Domain": ".mk"
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "ISO 3166-1 alpha2": "MP",
+    "ISO 3166-1 alpha3": "MNP",
+    "ISO 3166-1 numeric": 580,
+    "IOC": "",
+    "Fips 10": "CQ",
+    "License Plate": "",
+    "Domain": ".mp"
+  },
+  {
+    "Country": "Norway",
+    "ISO 3166-1 alpha2": "NO",
+    "ISO 3166-1 alpha3": "NOR",
+    "ISO 3166-1 numeric": 578,
+    "IOC": "NOR",
+    "Fips 10": "NO",
+    "License Plate": "N",
+    "Domain": ".no"
+  },
+  {
+    "Country": "Oman",
+    "ISO 3166-1 alpha2": "OM",
+    "ISO 3166-1 alpha3": "OMN",
+    "ISO 3166-1 numeric": 512,
+    "IOC": "OMA",
+    "Fips 10": "MU",
+    "License Plate": "OM",
+    "Domain": ".om"
+  },
+  {
+    "Country": "Pakistan",
+    "ISO 3166-1 alpha2": "PK",
+    "ISO 3166-1 alpha3": "PAK",
+    "ISO 3166-1 numeric": 586,
+    "IOC": "PAK",
+    "Fips 10": "PK",
+    "License Plate": "PK",
+    "Domain": ".pk"
+  },
+  {
+    "Country": "Palau",
+    "ISO 3166-1 alpha2": "PW",
+    "ISO 3166-1 alpha3": "PLW",
+    "ISO 3166-1 numeric": 585,
+    "IOC": "PLW",
+    "Fips 10": "PS",
+    "License Plate": "PAL",
+    "Domain": ".pw"
+  },
+  {
+    "Country": "Palestine",
+    "ISO 3166-1 alpha2": "PS",
+    "ISO 3166-1 alpha3": "PSE",
+    "ISO 3166-1 numeric": 275,
+    "IOC": "PLE",
+    "Fips 10": "WE",
+    "License Plate": "WB",
+    "Domain": ".ps"
+  },
+  {
+    "Country": "Panama",
+    "ISO 3166-1 alpha2": "PA",
+    "ISO 3166-1 alpha3": "PAN",
+    "ISO 3166-1 numeric": 591,
+    "IOC": "PAN",
+    "Fips 10": "PM",
+    "License Plate": "PA",
+    "Domain": ".pa"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "ISO 3166-1 alpha2": "PG",
+    "ISO 3166-1 alpha3": "PNG",
+    "ISO 3166-1 numeric": 598,
+    "IOC": "PNG",
+    "Fips 10": "PP",
+    "License Plate": "PNG",
+    "Domain": ".pg"
+  },
+  {
+    "Country": "Paraguay",
+    "ISO 3166-1 alpha2": "PY",
+    "ISO 3166-1 alpha3": "PRY",
+    "ISO 3166-1 numeric": 600,
+    "IOC": "PAR",
+    "Fips 10": "PA",
+    "License Plate": "PY",
+    "Domain": ".py"
+  },
+  {
+    "Country": "Peru",
+    "ISO 3166-1 alpha2": "PE",
+    "ISO 3166-1 alpha3": "PER",
+    "ISO 3166-1 numeric": 604,
+    "IOC": "PER",
+    "Fips 10": "PE",
+    "License Plate": "PE",
+    "Domain": ".pe"
+  },
+  {
+    "Country": "Philippines",
+    "ISO 3166-1 alpha2": "PH",
+    "ISO 3166-1 alpha3": "PHL",
+    "ISO 3166-1 numeric": 608,
+    "IOC": "PHI",
+    "Fips 10": "RP",
+    "License Plate": "RP",
+    "Domain": ".ph"
+  },
+  {
+    "Country": "Pitcairn Islands",
+    "ISO 3166-1 alpha2": "PN",
+    "ISO 3166-1 alpha3": "PCN",
+    "ISO 3166-1 numeric": 612,
+    "IOC": "",
+    "Fips 10": "PC",
+    "License Plate": "",
+    "Domain": ".pn"
+  },
+  {
+    "Country": "Poland",
+    "ISO 3166-1 alpha2": "PL",
+    "ISO 3166-1 alpha3": "POL",
+    "ISO 3166-1 numeric": 616,
+    "IOC": "POL",
+    "Fips 10": "PL",
+    "License Plate": "PL",
+    "Domain": ".pl"
+  },
+  {
+    "Country": "Portugal",
+    "ISO 3166-1 alpha2": "PT",
+    "ISO 3166-1 alpha3": "PRT",
+    "ISO 3166-1 numeric": 620,
+    "IOC": "POR",
+    "Fips 10": "PO",
+    "License Plate": "P",
+    "Domain": ".pt"
+  },
+  {
+    "Country": "Principality of Monaco",
+    "ISO 3166-1 alpha2": "MC",
+    "ISO 3166-1 alpha3": "MCO",
+    "ISO 3166-1 numeric": 492,
+    "IOC": "MON",
+    "Fips 10": "MN",
+    "License Plate": "MC",
+    "Domain": ".mc"
+  },
+  {
+    "Country": "Puerto Rico",
+    "ISO 3166-1 alpha2": "PR",
+    "ISO 3166-1 alpha3": "PRI",
+    "ISO 3166-1 numeric": 630,
+    "IOC": "PUR",
+    "Fips 10": "RQ",
+    "License Plate": "PRI",
+    "Domain": ".pr"
+  },
+  {
+    "Country": "Qatar",
+    "ISO 3166-1 alpha2": "QA",
+    "ISO 3166-1 alpha3": "QAT",
+    "ISO 3166-1 numeric": 634,
+    "IOC": "QAT",
+    "Fips 10": "QA",
+    "License Plate": "Q",
+    "Domain": ".qa"
+  },
+  {
+    "Country": "Republic of the Congo",
+    "ISO 3166-1 alpha2": "CG",
+    "ISO 3166-1 alpha3": "COG",
+    "ISO 3166-1 numeric": 178,
+    "IOC": "CGO",
+    "Fips 10": "CF",
+    "License Plate": "RCB",
+    "Domain": ".cg"
+  },
+  {
+    "Country": "Reunion",
+    "ISO 3166-1 alpha2": "RE",
+    "ISO 3166-1 alpha3": "REU",
+    "ISO 3166-1 numeric": 638,
+    "IOC": "",
+    "Fips 10": "RE",
+    "License Plate": "",
+    "Domain": ".re"
+  },
+  {
+    "Country": "Romania",
+    "ISO 3166-1 alpha2": "RO",
+    "ISO 3166-1 alpha3": "ROU",
+    "ISO 3166-1 numeric": 642,
+    "IOC": "ROU",
+    "Fips 10": "RO",
+    "License Plate": "RO",
+    "Domain": ".ro"
+  },
+  {
+    "Country": "Russia",
+    "ISO 3166-1 alpha2": "RU",
+    "ISO 3166-1 alpha3": "RUS",
+    "ISO 3166-1 numeric": 643,
+    "IOC": "RUS",
+    "Fips 10": "RS",
+    "License Plate": "RUS",
+    "Domain": ".ru"
+  },
+  {
+    "Country": "Rwanda",
+    "ISO 3166-1 alpha2": "RW",
+    "ISO 3166-1 alpha3": "RWA",
+    "ISO 3166-1 numeric": 646,
+    "IOC": "RWA",
+    "Fips 10": "RW",
+    "License Plate": "RWA",
+    "Domain": ".rw"
+  },
+  {
+    "Country": "Saint Barthelemy",
+    "ISO 3166-1 alpha2": "BL",
+    "ISO 3166-1 alpha3": "BLM",
+    "ISO 3166-1 numeric": 652,
+    "IOC": "",
+    "Fips 10": "TB",
+    "License Plate": "",
+    "Domain": ".bl"
+  },
+  {
+    "Country": "Saint Helena, Ascension and Tristan da Cunha",
+    "ISO 3166-1 alpha2": "SH",
+    "ISO 3166-1 alpha3": "SHN",
+    "ISO 3166-1 numeric": 654,
+    "IOC": "",
+    "Fips 10": "SH",
+    "License Plate": "",
+    "Domain": ".sh"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "ISO 3166-1 alpha2": "KN",
+    "ISO 3166-1 alpha3": "KNA",
+    "ISO 3166-1 numeric": 659,
+    "IOC": "SKN",
+    "Fips 10": "SC",
+    "License Plate": "KAN",
+    "Domain": ".kn"
+  },
+  {
+    "Country": "Saint Lucia",
+    "ISO 3166-1 alpha2": "LC",
+    "ISO 3166-1 alpha3": "LCA",
+    "ISO 3166-1 numeric": 662,
+    "IOC": "LCA",
+    "Fips 10": "ST",
+    "License Plate": "WL",
+    "Domain": ".lc"
+  },
+  {
+    "Country": "Saint Martin",
+    "ISO 3166-1 alpha2": "MF",
+    "ISO 3166-1 alpha3": "MAF",
+    "ISO 3166-1 numeric": 663,
+    "IOC": "",
+    "Fips 10": "RN",
+    "License Plate": "F",
+    "Domain": ".mf"
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "ISO 3166-1 alpha2": "PM",
+    "ISO 3166-1 alpha3": "SPM",
+    "ISO 3166-1 numeric": 666,
+    "IOC": "",
+    "Fips 10": "SB",
+    "License Plate": "",
+    "Domain": ".pm"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "ISO 3166-1 alpha2": "VC",
+    "ISO 3166-1 alpha3": "VCT",
+    "ISO 3166-1 numeric": 670,
+    "IOC": "VIN",
+    "Fips 10": "VC",
+    "License Plate": "WV",
+    "Domain": ".vc"
+  },
+  {
+    "Country": "Samoa",
+    "ISO 3166-1 alpha2": "WS",
+    "ISO 3166-1 alpha3": "WSM",
+    "ISO 3166-1 numeric": 882,
+    "IOC": "SAM",
+    "Fips 10": "WS",
+    "License Plate": "WS",
+    "Domain": ".ws"
+  },
+  {
+    "Country": "San Marino",
+    "ISO 3166-1 alpha2": "SM",
+    "ISO 3166-1 alpha3": "SMR",
+    "ISO 3166-1 numeric": 674,
+    "IOC": "SMR",
+    "Fips 10": "SM",
+    "License Plate": "RSM",
+    "Domain": ".sm"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "ISO 3166-1 alpha2": "ST",
+    "ISO 3166-1 alpha3": "STP",
+    "ISO 3166-1 numeric": 678,
+    "IOC": "STP",
+    "Fips 10": "TP",
+    "License Plate": "STP",
+    "Domain": ".st"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "ISO 3166-1 alpha2": "SA",
+    "ISO 3166-1 alpha3": "SAU",
+    "ISO 3166-1 numeric": 682,
+    "IOC": "KSA",
+    "Fips 10": "SA",
+    "License Plate": "KSA",
+    "Domain": ".sa"
+  },
+  {
+    "Country": "Senegal",
+    "ISO 3166-1 alpha2": "SN",
+    "ISO 3166-1 alpha3": "SEN",
+    "ISO 3166-1 numeric": 686,
+    "IOC": "SEN",
+    "Fips 10": "SG",
+    "License Plate": "SN",
+    "Domain": ".sn"
+  },
+  {
+    "Country": "Serbia",
+    "ISO 3166-1 alpha2": "RS",
+    "ISO 3166-1 alpha3": "SRB",
+    "ISO 3166-1 numeric": 688,
+    "IOC": "SRB",
+    "Fips 10": "RI",
+    "License Plate": "SRB",
+    "Domain": ".rs"
+  },
+  {
+    "Country": "Seychelles",
+    "ISO 3166-1 alpha2": "SC",
+    "ISO 3166-1 alpha3": "SYC",
+    "ISO 3166-1 numeric": 690,
+    "IOC": "SEY",
+    "Fips 10": "SE",
+    "License Plate": "SY",
+    "Domain": ".sc"
+  },
+  {
+    "Country": "Sierra Leone",
+    "ISO 3166-1 alpha2": "SL",
+    "ISO 3166-1 alpha3": "SLE",
+    "ISO 3166-1 numeric": 694,
+    "IOC": "SLE",
+    "Fips 10": "SL",
+    "License Plate": "WAL",
+    "Domain": ".sl"
+  },
+  {
+    "Country": "Singapore",
+    "ISO 3166-1 alpha2": "SG",
+    "ISO 3166-1 alpha3": "SGP",
+    "ISO 3166-1 numeric": 702,
+    "IOC": "SGP",
+    "Fips 10": "SN",
+    "License Plate": "SGP",
+    "Domain": ".sg"
+  },
+  {
+    "Country": "Sint Maarten",
+    "ISO 3166-1 alpha2": "SX",
+    "ISO 3166-1 alpha3": "SXM",
+    "ISO 3166-1 numeric": 534,
+    "IOC": "",
+    "Fips 10": "NN",
+    "License Plate": "",
+    "Domain": ".sx"
+  },
+  {
+    "Country": "Slovakia",
+    "ISO 3166-1 alpha2": "SK",
+    "ISO 3166-1 alpha3": "SVK",
+    "ISO 3166-1 numeric": 703,
+    "IOC": "SVK",
+    "Fips 10": "LO",
+    "License Plate": "SK",
+    "Domain": ".sk"
+  },
+  {
+    "Country": "Slovenia",
+    "ISO 3166-1 alpha2": "SI",
+    "ISO 3166-1 alpha3": "SVN",
+    "ISO 3166-1 numeric": 705,
+    "IOC": "SLO",
+    "Fips 10": "SI",
+    "License Plate": "SLO",
+    "Domain": ".si"
+  },
+  {
+    "Country": "Solomon Islands",
+    "ISO 3166-1 alpha2": "SB",
+    "ISO 3166-1 alpha3": "SLB",
+    "ISO 3166-1 numeric": 90,
+    "IOC": "SOL",
+    "Fips 10": "BP",
+    "License Plate": "SOL",
+    "Domain": ".sb"
+  },
+  {
+    "Country": "Somalia",
+    "ISO 3166-1 alpha2": "SO",
+    "ISO 3166-1 alpha3": "SOM",
+    "ISO 3166-1 numeric": 706,
+    "IOC": "SOM",
+    "Fips 10": "SO",
+    "License Plate": "SO",
+    "Domain": ".so"
+  },
+  {
+    "Country": "South Africa",
+    "ISO 3166-1 alpha2": "ZA",
+    "ISO 3166-1 alpha3": "ZAF",
+    "ISO 3166-1 numeric": 710,
+    "IOC": "RSA",
+    "Fips 10": "SF",
+    "License Plate": "ZA",
+    "Domain": ".za"
+  },
+  {
+    "Country": "South Georgia and South Sandwich Islands",
+    "ISO 3166-1 alpha2": "GS",
+    "ISO 3166-1 alpha3": "SGS",
+    "ISO 3166-1 numeric": 239,
+    "IOC": "",
+    "Fips 10": "SX",
+    "License Plate": "",
+    "Domain": ".gs"
+  },
+  {
+    "Country": "South Korea",
+    "ISO 3166-1 alpha2": "KR",
+    "ISO 3166-1 alpha3": "KOR",
+    "ISO 3166-1 numeric": 410,
+    "IOC": "KOR",
+    "Fips 10": "KS",
+    "License Plate": "ROK",
+    "Domain": ".kr"
+  },
+  {
+    "Country": "South Sudan",
+    "ISO 3166-1 alpha2": "SS",
+    "ISO 3166-1 alpha3": "SSD",
+    "ISO 3166-1 numeric": 728,
+    "IOC": "",
+    "Fips 10": "",
+    "License Plate": "SSD",
+    "Domain": ".ss"
+  },
+  {
+    "Country": "Spain",
+    "ISO 3166-1 alpha2": "ES",
+    "ISO 3166-1 alpha3": "ESP",
+    "ISO 3166-1 numeric": 724,
+    "IOC": "ESP",
+    "Fips 10": "SP",
+    "License Plate": "E",
+    "Domain": ".es"
+  },
+  {
+    "Country": "Sri Lanka",
+    "ISO 3166-1 alpha2": "LK",
+    "ISO 3166-1 alpha3": "LKA",
+    "ISO 3166-1 numeric": 144,
+    "IOC": "SRI",
+    "Fips 10": "CE",
+    "License Plate": "CL",
+    "Domain": ".lk"
+  },
+  {
+    "Country": "Sudan",
+    "ISO 3166-1 alpha2": "SD",
+    "ISO 3166-1 alpha3": "SDN",
+    "ISO 3166-1 numeric": 736,
+    "IOC": "SUD",
+    "Fips 10": "SU",
+    "License Plate": "SUD",
+    "Domain": ".sd"
+  },
+  {
+    "Country": "Suriname",
+    "ISO 3166-1 alpha2": "SR",
+    "ISO 3166-1 alpha3": "SUR",
+    "ISO 3166-1 numeric": 740,
+    "IOC": "SUR",
+    "Fips 10": "NS",
+    "License Plate": "SME",
+    "Domain": ".sr"
+  },
+  {
+    "Country": "Svalbard",
+    "ISO 3166-1 alpha2": "SJ",
+    "ISO 3166-1 alpha3": "SJM",
+    "ISO 3166-1 numeric": 744,
+    "IOC": "",
+    "Fips 10": "SV",
+    "License Plate": "",
+    "Domain": ".sj"
+  },
+  {
+    "Country": "Sweden",
+    "ISO 3166-1 alpha2": "SE",
+    "ISO 3166-1 alpha3": "SWE",
+    "ISO 3166-1 numeric": 752,
+    "IOC": "SWE",
+    "Fips 10": "SW",
+    "License Plate": "S",
+    "Domain": ".se"
+  },
+  {
+    "Country": "Switzerland",
+    "ISO 3166-1 alpha2": "CH",
+    "ISO 3166-1 alpha3": "CHE",
+    "ISO 3166-1 numeric": 756,
+    "IOC": "SUI",
+    "Fips 10": "SZ",
+    "License Plate": "CH",
+    "Domain": ".ch"
+  },
+  {
+    "Country": "Syria",
+    "ISO 3166-1 alpha2": "SY",
+    "ISO 3166-1 alpha3": "SYR",
+    "ISO 3166-1 numeric": 760,
+    "IOC": "SYR",
+    "Fips 10": "SY",
+    "License Plate": "SYR",
+    "Domain": ".sy"
+  },
+  {
+    "Country": "Taiwan",
+    "ISO 3166-1 alpha2": "TW",
+    "ISO 3166-1 alpha3": "TWN",
+    "ISO 3166-1 numeric": 158,
+    "IOC": "TPE",
+    "Fips 10": "TW",
+    "License Plate": "RC",
+    "Domain": ".tw"
+  },
+  {
+    "Country": "Tajikistan",
+    "ISO 3166-1 alpha2": "TJ",
+    "ISO 3166-1 alpha3": "TJK",
+    "ISO 3166-1 numeric": 762,
+    "IOC": "TJK",
+    "Fips 10": "TI",
+    "License Plate": "TJ",
+    "Domain": ".tj"
+  },
+  {
+    "Country": "Tanzania",
+    "ISO 3166-1 alpha2": "TZ",
+    "ISO 3166-1 alpha3": "TZA",
+    "ISO 3166-1 numeric": 834,
+    "IOC": "TAN",
+    "Fips 10": "TZ",
+    "License Plate": "EAT",
+    "Domain": ".tz"
+  },
+  {
+    "Country": "Thailand",
+    "ISO 3166-1 alpha2": "TH",
+    "ISO 3166-1 alpha3": "THA",
+    "ISO 3166-1 numeric": 764,
+    "IOC": "THA",
+    "Fips 10": "TH",
+    "License Plate": "T",
+    "Domain": ".th"
+  },
+  {
+    "Country": "Togo",
+    "ISO 3166-1 alpha2": "TG",
+    "ISO 3166-1 alpha3": "TGO",
+    "ISO 3166-1 numeric": 768,
+    "IOC": "TOG",
+    "Fips 10": "TO",
+    "License Plate": "TG",
+    "Domain": ".tg"
+  },
+  {
+    "Country": "Tokelau",
+    "ISO 3166-1 alpha2": "TK",
+    "ISO 3166-1 alpha3": "TKL",
+    "ISO 3166-1 numeric": 772,
+    "IOC": "",
+    "Fips 10": "TL",
+    "License Plate": "",
+    "Domain": ".tk"
+  },
+  {
+    "Country": "Tonga",
+    "ISO 3166-1 alpha2": "TO",
+    "ISO 3166-1 alpha3": "TON",
+    "ISO 3166-1 numeric": 776,
+    "IOC": "TGA",
+    "Fips 10": "TN",
+    "License Plate": "TON",
+    "Domain": ".to"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "ISO 3166-1 alpha2": "TT",
+    "ISO 3166-1 alpha3": "TTO",
+    "ISO 3166-1 numeric": 780,
+    "IOC": "TTO",
+    "Fips 10": "TD",
+    "License Plate": "TT",
+    "Domain": ".tt"
+  },
+  {
+    "Country": "Tunisia",
+    "ISO 3166-1 alpha2": "TN",
+    "ISO 3166-1 alpha3": "TUN",
+    "ISO 3166-1 numeric": 788,
+    "IOC": "TUN",
+    "Fips 10": "TS",
+    "License Plate": "TN",
+    "Domain": ".tn"
+  },
+  {
+    "Country": "Turkey",
+    "ISO 3166-1 alpha2": "TR",
+    "ISO 3166-1 alpha3": "TUR",
+    "ISO 3166-1 numeric": 792,
+    "IOC": "TUR",
+    "Fips 10": "TU",
+    "License Plate": "TR",
+    "Domain": ".tr"
+  },
+  {
+    "Country": "Turkmenistan",
+    "ISO 3166-1 alpha2": "TM",
+    "ISO 3166-1 alpha3": "TKM",
+    "ISO 3166-1 numeric": 795,
+    "IOC": "TKM",
+    "Fips 10": "TX",
+    "License Plate": "TM",
+    "Domain": ".tm"
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "ISO 3166-1 alpha2": "TC",
+    "ISO 3166-1 alpha3": "TCA",
+    "ISO 3166-1 numeric": 796,
+    "IOC": "",
+    "Fips 10": "TK",
+    "License Plate": "",
+    "Domain": ".tc"
+  },
+  {
+    "Country": "Tuvalu",
+    "ISO 3166-1 alpha2": "TV",
+    "ISO 3166-1 alpha3": "TUV",
+    "ISO 3166-1 numeric": 798,
+    "IOC": "TUV",
+    "Fips 10": "TV",
+    "License Plate": "TUV",
+    "Domain": ".tv"
+  },
+  {
+    "Country": "Uganda",
+    "ISO 3166-1 alpha2": "UG",
+    "ISO 3166-1 alpha3": "UGA",
+    "ISO 3166-1 numeric": 800,
+    "IOC": "UGA",
+    "Fips 10": "UG",
+    "License Plate": "EAU",
+    "Domain": ".ug"
+  },
+  {
+    "Country": "Ukraine",
+    "ISO 3166-1 alpha2": "UA",
+    "ISO 3166-1 alpha3": "UKR",
+    "ISO 3166-1 numeric": 804,
+    "IOC": "UKR",
+    "Fips 10": "UP",
+    "License Plate": "UA",
+    "Domain": ".ua"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "ISO 3166-1 alpha2": "AE",
+    "ISO 3166-1 alpha3": "ARE",
+    "ISO 3166-1 numeric": 784,
+    "IOC": "UAE",
+    "Fips 10": "AE",
+    "License Plate": "UAE",
+    "Domain": ".ae"
+  },
+  {
+    "Country": "United Kingdom",
+    "ISO 3166-1 alpha2": "GB",
+    "ISO 3166-1 alpha3": "GBR",
+    "ISO 3166-1 numeric": 826,
+    "IOC": "GBR",
+    "Fips 10": "UK",
+    "License Plate": "GBM",
+    "Domain": ".uk"
+  },
+  {
+    "Country": "United States",
+    "ISO 3166-1 alpha2": "US",
+    "ISO 3166-1 alpha3": "USA",
+    "ISO 3166-1 numeric": 840,
+    "IOC": "USA",
+    "Fips 10": "US",
+    "License Plate": "USA",
+    "Domain": ".us"
+  },
+  {
+    "Country": "Uruguay",
+    "ISO 3166-1 alpha2": "UY",
+    "ISO 3166-1 alpha3": "URY",
+    "ISO 3166-1 numeric": 858,
+    "IOC": "URU",
+    "Fips 10": "UY",
+    "License Plate": "ROU",
+    "Domain": ".uy"
+  },
+  {
+    "Country": "Uzbekistan",
+    "ISO 3166-1 alpha2": "UZ",
+    "ISO 3166-1 alpha3": "UZB",
+    "ISO 3166-1 numeric": 860,
+    "IOC": "UZB",
+    "Fips 10": "UZ",
+    "License Plate": "UZ",
+    "Domain": ".uz"
+  },
+  {
+    "Country": "Vanuatu",
+    "ISO 3166-1 alpha2": "VU",
+    "ISO 3166-1 alpha3": "VUT",
+    "ISO 3166-1 numeric": 548,
+    "IOC": "VAN",
+    "Fips 10": "NH",
+    "License Plate": "VAN",
+    "Domain": ".vu"
+  },
+  {
+    "Country": "Vatican City",
+    "ISO 3166-1 alpha2": "VA",
+    "ISO 3166-1 alpha3": "VAT",
+    "ISO 3166-1 numeric": 336,
+    "IOC": "",
+    "Fips 10": "VT",
+    "License Plate": "V",
+    "Domain": ".va"
+  },
+  {
+    "Country": "Venezuela",
+    "ISO 3166-1 alpha2": "VE",
+    "ISO 3166-1 alpha3": "VEN",
+    "ISO 3166-1 numeric": 862,
+    "IOC": "VEN",
+    "Fips 10": "VE",
+    "License Plate": "YV",
+    "Domain": ".ve"
+  },
+  {
+    "Country": "Vietnam",
+    "ISO 3166-1 alpha2": "VN",
+    "ISO 3166-1 alpha3": "VNM",
+    "ISO 3166-1 numeric": 704,
+    "IOC": "VIE",
+    "Fips 10": "VM",
+    "License Plate": "VN",
+    "Domain": ".vn"
+  },
+  {
+    "Country": "Virgin Islands",
+    "ISO 3166-1 alpha2": "VI",
+    "ISO 3166-1 alpha3": "VIR",
+    "ISO 3166-1 numeric": 850,
+    "IOC": "ISV",
+    "Fips 10": "VQ",
+    "License Plate": "",
+    "Domain": ".vi"
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "ISO 3166-1 alpha2": "WF",
+    "ISO 3166-1 alpha3": "WLF",
+    "ISO 3166-1 numeric": 876,
+    "IOC": "",
+    "Fips 10": "WF",
+    "License Plate": "",
+    "Domain": ".wf"
+  },
+  {
+    "Country": "Western Sahara",
+    "ISO 3166-1 alpha2": "EH",
+    "ISO 3166-1 alpha3": "ESH",
+    "ISO 3166-1 numeric": 732,
+    "IOC": "",
+    "Fips 10": "WI",
+    "License Plate": "WSA",
+    "Domain": ".eh"
+  },
+  {
+    "Country": "Yemen",
+    "ISO 3166-1 alpha2": "YE",
+    "ISO 3166-1 alpha3": "YEM",
+    "ISO 3166-1 numeric": 887,
+    "IOC": "YEM",
+    "Fips 10": "YM",
+    "License Plate": "YEM",
+    "Domain": ".ye"
+  },
+  {
+    "Country": "Zambia",
+    "ISO 3166-1 alpha2": "ZM",
+    "ISO 3166-1 alpha3": "ZMB",
+    "ISO 3166-1 numeric": 894,
+    "IOC": "ZAM",
+    "Fips 10": "ZA",
+    "License Plate": "Z",
+    "Domain": ".zm"
+  },
+  {
+    "Country": "Zimbabwe",
+    "ISO 3166-1 alpha2": "ZW",
+    "ISO 3166-1 alpha3": "ZWE",
+    "ISO 3166-1 numeric": 716,
+    "IOC": "ZIM",
+    "Fips 10": "ZI",
+    "License Plate": "ZW",
+    "Domain": ".zw"
+  }
+]
