@@ -131,3 +131,5 @@ dist
 *.plist
 *.ipa
 ipa/*.json
+
+ignore/*

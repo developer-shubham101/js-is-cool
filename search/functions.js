@@ -53,4 +53,4 @@ function argumentVSparameter(parameter) {
     console.log(`Parameter is ${parameter}`);
 }
 
-argumentVSparameter(12); // here 12 is the argument
+argumentVSparameter(12); // here 12 is the argument 
